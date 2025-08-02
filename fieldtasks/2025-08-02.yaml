@@ -19,10 +19,3 @@ tasks:
         notes: Not fake grass — look for woven outdoor mat style
       - name: Mobile home screen door
         notes: Door frame measures 35 3/4" wide x 76" tall. Confirm specialty sizing for mobile home. May not fit standard screen doors.
-      - name: Mobile home screen door (duplicate)
-        notes: Door frame measured 35 3/4" x 76". May need mobile-home specific product.
-
-  - store: TBD
-    items:
-      - name: Mobile home screen door
-        notes: Door frame measured 35 3/4" wide by 76" tall. Likely needs a mobile home-specific door.

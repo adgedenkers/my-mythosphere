@@ -8,10 +8,10 @@ tasks:
     items:
       - name: Bolts for umbrella stand
         notes: Bring the umbrella stand with you to match sizing
+        status: done
       - name: Staples for electric staple gun
         notes: Check gauge and size before purchase
-      - name: Electrical tape
-        notes: White and assorted colors
+        status: done
 
   - store: Lowe's
     items:
@@ -19,6 +19,8 @@ tasks:
         notes: Not fake grass — look for woven outdoor mat style
       - name: Mobile home screen door
         notes: Door frame measures 35 3/4" wide x 76" tall. Confirm specialty sizing for mobile home. May not fit standard screen doors.
+      - name: Electrical tape
+        notes: White and assorted colors
 
   - store: Burger King – Norwich, NY
     items:

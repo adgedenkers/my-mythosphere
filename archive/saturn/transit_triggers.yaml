@@ -1,0 +1,31 @@
+person: Adriaan Denkers
+birth:
+  date: 1977-11-22
+  time: 08:30
+  timezone: EDT
+  location: Albany, NY
+saturn_transits:
+  - name: Saturn Return
+    rule: "Occurs when Saturn returns to natal position (~29.5, ~59, ~88.5 years)"
+    approx_ages: [29.5, 59, 88.5]
+    type: RETURN
+  - name: Saturn Opposition
+    rule: "Occurs when Saturn is 180° from natal Saturn (~14.5, ~44, ~73.5 years)"
+    approx_ages: [14.5, 44, 73.5]
+    type: OPPOSITION
+  - name: Saturn Square
+    rule: "Occurs when Saturn is 90° or 270° from natal Saturn (~7, ~22, ~36.5, ~66, ~81.5 years)"
+    approx_ages: [7, 22, 36.5, 66, 81.5]
+    type: SQUARE
+rituals:
+  RETURN:
+    - "Create symbolic map of life structure"
+    - "Review foundational commitments"
+    - "Initiate new long-term path"
+  OPPOSITION:
+    - "Observe external mirrors and projections"
+    - "Balance self-discipline with flexibility"
+  SQUARE:
+    - "Identify structural tension points"
+    - "Deconstruct what no longer supports growth"
+    - "Restabilize with new boundaries"

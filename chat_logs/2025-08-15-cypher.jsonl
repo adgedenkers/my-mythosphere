@@ -1,0 +1,2 @@
+{"timestamp": "2025-08-15T18:48:37.470596Z", "role": "user", "content": "MATCH (n) RETURN count(n)", "api_key": "adriaan-harold-denkers", "conversation_id": "cypher", "tags": []}
+{"timestamp": "2025-08-15T18:48:37.470608Z", "role": "assistant", "content": "[{'count(n)': 1385}]", "api_key": "adriaan-harold-denkers", "conversation_id": "cypher", "tags": []}

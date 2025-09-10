@@ -1,1 +1,9 @@
-This is a test file created by Mythos.
+# Dummy YAML configuration
+version: 1.0.0
+service:
+  name: mythos-test
+  enabled: true
+  retries: 3
+  endpoints:
+    - /health
+    - /version

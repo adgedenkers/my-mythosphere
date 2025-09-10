@@ -1,0 +1,6 @@
+id: "test-convo-123"
+url: "https://chatgpt.com/g/g-68a12d9461e0819196a8aa7a0e564894-mythos/c/test-convo-123"
+timestamp: "2025-09-10T20:10:16.472405"
+role: "user"
+content: |-
+  This is a test log entry from curl.

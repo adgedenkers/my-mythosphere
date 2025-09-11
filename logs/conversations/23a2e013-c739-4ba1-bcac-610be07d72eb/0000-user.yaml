@@ -1,3 +1,0 @@
-timestamp: 2025-09-11T01:48:07.877954
-role: user
-content: "timestamp: 2025-09-11T01:47:51.475357\nrole: assistant\ncontent: {\"detail\": \"API key not recognized in users.yaml\"}"

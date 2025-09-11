@@ -1,0 +1,3 @@
+timestamp: 2025-09-11T19:34:25.890408
+role: assistant
+content: {"detail": {"documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits", "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID C01E:FA741:24F5153:8322261:68C3242F."}}
